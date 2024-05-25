@@ -1,0 +1,5 @@
+notes
+
+how to make a model
+php artisan make:model -Name
+
